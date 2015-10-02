@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/remotebeta-labs/sprint.jukebox",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "express": "^4.13.2"
   },
   "private": true
